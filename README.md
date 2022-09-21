@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwanDaisy
-- 👀 I’m interested in GIS, Data Science and Analysis
-- 🌱 I’m currently learning software engineering and land Surveying
+- 👀 I’m passionate about GIS, Data Science and Analysis
+- 🌱 I’m currently studying software engineering at YIBS Yaounde,Cameroon and Land Surveying at ENSTP Yaounde,Cameroon
 - 💞️ I’m looking to collaborate with learners and experts so I can learn and gain insights as well
 - 📫 How to reach me : email - daisyowan@gmail.com
   
