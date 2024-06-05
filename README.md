@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwanDaisy
-- 👀 I’m passionate about Geomatics, Programming, Data Science and Analysis
-- 🌱 I’m a Software Engineer currently studying Land Surveying at ENSTP Yaounde,Cameroon
-- 💞️ I’m looking to collaborate with learners and experts so I can learn and gain insights as well
+- 👀 GIS & Data Analyst
+- 🌱 Coffee Lover
+- 💞️ Want to talk better?
 - 📫 How to reach me : email - daisyowan@gmail.com
 - LinkedIn profile : www.linkedin.com/in/owan-ayuk-daisy-ajijia-3a54251a7
 
